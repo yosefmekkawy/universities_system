@@ -8,4 +8,6 @@ use Illuminate\Database\Eloquent\Model;
 class governments extends Model
 {
     use HasFactory;
+
+    protected $fillable=['name','info'];
 }

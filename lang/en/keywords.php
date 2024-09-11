@@ -7,4 +7,5 @@ return[
     'password'=>'password',
     'phone'=>'phone',
     'type'=>'type',
+    'error_msg'=>'user value is required',
 ];
